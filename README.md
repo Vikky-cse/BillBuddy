@@ -33,9 +33,10 @@ The backend handles core functionalities such as food ordering, transaction mana
 
 ### Images
 
-![Home](https://drive.google.com/file/d/1OgBZHdp7GqyLgW6VrdlONbA9-gV8ylf9/view?usp=sharing)
-![shop](https://drive.google.com/file/d/1hmxnJOV6CxDvoNyBTV7I753XVdOm_6m0/view?usp=sharing)
-![item](https://drive.google.com/file/d/1dJ3MbNtyAKCZrLtADsaCOusUeTkfzXg8/view?usp=sharing)
-![Cart](https://drive.google.com/file/d/1YKWLs09nQ5v4m45x_4EbrojeWgsHTM_a/view?usp=sharing)
-![kiosk](https://drive.google.com/file/d/1cNiTryeaU2aKm2ZifTez1BMF1zoWaaBe/view?usp=sharing)
+![Home](https://github.com/user-attachments/assets/2aed85a4-26d7-47d4-bb8e-d2a5e61ddd56)
+![Food](https://github.com/user-attachments/assets/110672a9-ce72-402e-b0ca-9d1ecfde291d)
+![category](https://github.com/user-attachments/assets/fd07425f-5c16-4031-a29a-af90cdedba00)
+![cart](https://github.com/user-attachments/assets/a88b3739-f28e-4092-8d47-4044469435ed)
+
+![Kiosk](https://github.com/user-attachments/assets/18952546-1d6d-4db7-bfe5-bd4cdf212e8a)
 
